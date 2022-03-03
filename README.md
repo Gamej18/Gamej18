@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jalen Bowens
-- 👀 I’m interested in Software development for Java, C++ and game development on Unreal Engine.
-- 🌱 I’m currently learning Unreal Engine in C++ and improving my skills in Java.
+- 👀 I’m interested in developing my skills making Web Applications and UI's.
+- 🌱 I’m currently Learning React, Node.js, Javascript, CSS, and HTML to have a career as a Web Developer.
 - 📫 How to reach me: jalenbowens9@gmail.com
 
 <!---
