@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jalen Bowens
-- 👀 I’m interested in developing my skills making Web Applications and UI's.
+- 👋 Hi, I’m Jalen
+- 👀 I’m interested in developing my skills in making Web Applications and UIs.
 - 🌱 I’m currently Learning React, Node.js, Javascript, CSS, and HTML to have a career as a Full Stack Developer.
 - 📫 How to reach me: jalenbowenswork@gmail.com
 
